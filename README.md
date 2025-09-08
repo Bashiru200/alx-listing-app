@@ -1,9 +1,9 @@
-## The project title: ALX Listing App
+# The project title: ALX Listing App
 
 # Description:
 This project is a front-end clone of Airbnb properity listing application
 
-# Project Directories Structure
+## Project Directories Structure
 * **Components/** - will house all the reuasble components that will be use across the app. Example: Card to display information about various properities
  
 * **Interfaces/** - will be use to stores all TypeScript interfaces related to this project
