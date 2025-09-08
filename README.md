@@ -1,6 +1,6 @@
-# The project title: ALX Listing App
+# The project title: **ALX Listing App**
 
-# Description:
+## Description:
 This project is a front-end clone of Airbnb properity listing application
 
 ## Project Directories Structure
